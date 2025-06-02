@@ -24,7 +24,58 @@
 
   📫 How to reach me **tanjibisham777@gmail.com & tanjibisham888@gmail.com**
 
- # Videos For Better Understanding:
+ # Watch & listen the Full Video For Better Understanding:
+
+    
+
+https://github.com/user-attachments/assets/65258c13-800c-492e-b046-95d977dc57a6
+
+
 
 </div>
 
+# Photos: 
+  1. Menu of EchoFi BoX:
+     
+![Menu](https://github.com/user-attachments/assets/d9951da0-0699-402f-9edc-68926a2c64cd)
+
+
+
+   3. About:
+      
+      ![about jpg](https://github.com/user-attachments/assets/24a1bcd9-3fa5-45e9-9310-557e1c70ea78)
+
+   4. Echo_Sour_apple(BLE) Attack for iphone 18 & 17:
+
+ ![BLE jpg](https://github.com/user-attachments/assets/e90d96b6-ce7e-406d-a354-f9faa0093ee7)
+
+   5. Beacon_Spam Attack :
+
+        ![Beacon_Spam](https://github.com/user-attachments/assets/9958fb42-73bc-4647-88f8-430861af876a)
+
+   6. Analyzer:
+
+       ![Analyzer](https://github.com/user-attachments/assets/cbd485d0-3e37-459f-b027-9de9c9eef8fd)
+
+  7. Sniffer Means wifi scanner:
+
+     
+![Wifi_Scan](https://github.com/user-attachments/assets/b4bee2ee-3480-40a8-a316-c9f121a6c114)
+
+8. Sniffer++ Attack Means ARP Scan, Nmap Port Scan, MAC Lookup, Packet Detector & Sniff:
+
+
+
+9. Deauth, Evil Twin attacks are on shown in the last part of the video or your can go to the 'EchoFi_Pocket_Server' Repo & see the video cause i have also attach the EchoFi_Pocket_Server in EchoFi_BoX_V1.(note)
+
+# Components: 
+   <p>
+      1. Esp32 V1 or C6.
+      2. 1.3 inch OLED display SSD1306.
+      3. five push buttons.
+      5. nrf+ PA + Antenna.
+      6. Esp IDF & Arduino Compatible.
+       
+   </p>
+    
+   
