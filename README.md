@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github.com/MrEchoFi/MrEchoFi/raw/4274f537dec313ac7dde4403fe0fae24259beade/Mr.EchoFi-New-Logo-with-ASCII.jpg" alt="logo" width="200" height="auto" />
-  <h1>EchoFi BoX V1</h1>
+  <h1> ~ EchoFi BoX V1 ~ </h1>
 </div>
   <p>
   All in one wireless penetration device. By this device you can perform these attacks:
@@ -25,15 +25,21 @@
 
   📫 How to reach me **tanjibisham777@gmail.com & tanjibisham888@gmail.com**
 
- # Watch & listen the Full Video For Better Understanding:
+ # Watch the Video For Better Understanding:
 
     
 
-https://github.com/user-attachments/assets/65258c13-800c-492e-b046-95d977dc57a6
+
+https://github.com/user-attachments/assets/9a693386-4627-498f-a03e-1756cbb58b1c
 
 
+  </div>
 
-</div>
+-------------------------------------------------------------------------------------------------------------------------------------------- \/  
+____________________________________________________________________________________________________________________________________________>>>>
+  
+## ## Want to see the Full Video of EchoFi_BoX_V1 Usage that how this device works ? : go to this link --> https://vimeo.com/1089696310/eeea07f1c7?share=copy
+
 
 # Photos: 
   1. Menu of EchoFi BoX:
