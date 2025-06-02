@@ -70,12 +70,12 @@ ________________________________________________________________________________
 ![Wifi_Scan](https://github.com/user-attachments/assets/b4bee2ee-3480-40a8-a316-c9f121a6c114)
 
 8. Sniffer++ Attack Means ARP Scan, Nmap Port Scan, MAC Lookup, Packet Detector & Sniff:
-    See the full video then you will understand about this cause i have include this section in the video. 
+    See the full video link[ https://vimeo.com/1089696310/eeea07f1c7?share=copy] that i give u, then you will understand about this cause i have include this section in the video. 
 
 
-9. Deauth, Evil Twin attacks are on shown in the last part of the video or your can go to the 'EchoFi_Pocket_Server' Repo[https://github.com/MrEchoFi/EchoFi_Pocket_Server..git] & see the video cause i have also attach the EchoFi_Pocket_Server in EchoFi_BoX_V1.
+9. Deauth, Evil Twin attacks are on shown in the last part of the video link of 'vemio-  https://vimeo.com/1089696310/eeea07f1c7?share=copy' or your can go to the 'EchoFi_Pocket_Server' Repo[https://github.com/MrEchoFi/EchoFi_Pocket_Server..git] & see the video cause i have also attach the EchoFi_Pocket_Server in EchoFi_BoX_V1.
 
-10. Game- Space Trash : this device also have game which is 'Space Trash'; i have include the game video so see the upper video.
+10. Game- Space Trash : this device also have game which is 'Space Trash'; i have include the game of video in the video link of 'vemio-  https://vimeo.com/1089696310/eeea07f1c7?share=copy'.
     
 # Components: 
    
