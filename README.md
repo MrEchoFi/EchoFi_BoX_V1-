@@ -62,7 +62,8 @@ ________________________________________________________________________________
 
    6. Analyzer:
 
-       ![Analyzer](https://github.com/user-attachments/assets/cbd485d0-3e37-459f-b027-9de9c9eef8fd)
+![Analyzer](https://github.com/user-attachments/assets/93b9bee9-0c27-4d01-b659-854cd2fa23e6)
+
 
   7. Sniffer Means wifi scanner:
 
