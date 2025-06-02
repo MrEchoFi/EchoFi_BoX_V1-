@@ -8,7 +8,7 @@
 </div>
   <p>
   All in one wireless penetration device. By this device you can perform these attacks:
-      <li> BLE attack for iphone OS 18, 17</li>
+      <li> BLE attack for iphone OS 18, 17 as 'Echo_Sour_Apple'</li>
        <li> Beacon Spam Attack</li>
        <li> ARP Scan</li>
        <li> MAC Lookup</li>
@@ -66,16 +66,17 @@ https://github.com/user-attachments/assets/65258c13-800c-492e-b046-95d977dc57a6
 
 
 
-9. Deauth, Evil Twin attacks are on shown in the last part of the video or your can go to the 'EchoFi_Pocket_Server' Repo & see the video cause i have also attach the EchoFi_Pocket_Server in EchoFi_BoX_V1.(note)
+9. Deauth, Evil Twin attacks are on shown in the last part of the video or your can go to the 'EchoFi_Pocket_Server' Repo[https://github.com/MrEchoFi/EchoFi_Pocket_Server..git] & see the video cause i have also attach the EchoFi_Pocket_Server in EchoFi_BoX_V1.
 
 # Components: 
-   <p>
-      1. Esp32 V1 or C6.
-      2. 1.3 inch OLED display SSD1306.
-      3. five push buttons.
-      5. nrf+ PA + Antenna.
-      6. Esp IDF & Arduino Compatible.
+   
+ <li>  Esp32 V1 or C6.</li>
+ <li> 1.3 inch OLED display SSD1306.</li>
+ <li> five push buttons. </li>
+ <li> nrf+ PA + Antenna. </li>
+ <li> Esp IDF & Arduino Compatible.</li>
        
-   </p>
-    
+   
+# Note: 
+     If u need source code then knock me in this ---> tanjibisham777@gmail.com
    
