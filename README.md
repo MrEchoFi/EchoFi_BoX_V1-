@@ -64,11 +64,12 @@ https://github.com/user-attachments/assets/65258c13-800c-492e-b046-95d977dc57a6
 ![Wifi_Scan](https://github.com/user-attachments/assets/b4bee2ee-3480-40a8-a316-c9f121a6c114)
 
 8. Sniffer++ Attack Means ARP Scan, Nmap Port Scan, MAC Lookup, Packet Detector & Sniff:
-
+    See the full video then you will understand about this cause i have include this section in the video. The video is upper section where i have told this ->  'Watch & listen the Full Video For Better Understanding'
 
 
 9. Deauth, Evil Twin attacks are on shown in the last part of the video or your can go to the 'EchoFi_Pocket_Server' Repo[https://github.com/MrEchoFi/EchoFi_Pocket_Server..git] & see the video cause i have also attach the EchoFi_Pocket_Server in EchoFi_BoX_V1.
 
+10. Game- Space Trash : this device also have game which is 'Space Trash'; i have include the game video so see the upper video where i have told this ->  'Watch & listen the Full Video For Better Understanding'
 # Components: 
    
  <li>  Esp32 V1 or C6.</li>
