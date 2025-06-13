@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/MrEchoFi/EchoFi_BoX_V1-/blob/main/EchoFi_BoX_V1_Hacking_616fe89b-789a-4dc2-937e-a739a1a39849.png?raw=true" alt="gif" width="700" height="auto" />
+    <img src="https://github.com/MrEchoFi/EchoFi_BoX_V1-/blob/main/EchoFi_BoX_V1_Hacking_616fe89b-789a-4dc2-937e-a739a1a39849.png?raw=true" alt="gif" width="701" height="auto" />
 </div>
 
 <div align="center">
