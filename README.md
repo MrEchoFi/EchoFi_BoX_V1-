@@ -33,9 +33,11 @@
 https://github.com/user-attachments/assets/9a693386-4627-498f-a03e-1756cbb58b1c
 
 _____________________________________
- <img src="https://github.com/MrEchoFi/EchoFi_BoX_V1-/blob/main/photo_2025-07-21_15-12-36.jpg?raw=true" alt="gif" width="500" height="auto" />
+<div align="center">
+ <img src="https://github.com/MrEchoFi/EchoFi_BoX_V1-/blob/main/photo_2025-07-21_15-12-36.jpg?raw=true" alt="gif" width="300" height="auto" />
 </div>
- <img src="https://github.com/MrEchoFi/EchoFi_BoX_V1-/blob/main/photo_2025-07-21_15-12-32.jpg?raw=true" alt="gif" width="500" height="auto" />
+<div align="center">
+ <img src="https://github.com/MrEchoFi/EchoFi_BoX_V1-/blob/main/photo_2025-07-21_15-12-32.jpg?raw=true" alt="gif" width="300" height="auto" />
 </div>
 
 
