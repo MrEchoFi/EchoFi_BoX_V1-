@@ -32,6 +32,12 @@
 
 https://github.com/user-attachments/assets/9a693386-4627-498f-a03e-1756cbb58b1c
 
+_____________________________________
+
+![photo_2025-07-21_15-12-36](https://github.com/user-attachments/assets/fe6ee798-7161-47bd-9fed-cca2a74dbe95)
+
+![photo_2025-07-21_15-12-32](https://github.com/user-attachments/assets/ef00d182-8dd8-42eb-9fef-25297f1dc6ef)
+
 
   </div>
 
@@ -44,31 +50,37 @@ ________________________________________________________________________________
 # Photos: 
   1. Menu of EchoFi BoX:
      
-![Menu](https://github.com/user-attachments/assets/d9951da0-0699-402f-9edc-68926a2c64cd)
 
+![photo_2025-07-21_15-12-59](https://github.com/user-attachments/assets/4af2bfd0-6fa5-4fdd-af88-55adf1f05e13)
 
 
    3. About:
       
-      ![about jpg](https://github.com/user-attachments/assets/24a1bcd9-3fa5-45e9-9310-557e1c70ea78)
+      
+![photo_2025-07-21_15-12-56](https://github.com/user-attachments/assets/5486f7e1-47c2-436a-9be0-f2a0a1e88003)
 
-   4. Echo_Sour_apple(BLE) Attack for iphone 18 & 17:
 
- ![BLE jpg](https://github.com/user-attachments/assets/e90d96b6-ce7e-406d-a354-f9faa0093ee7)
+
+   5. Echo_Sour_apple(BLE) Attack for iphone 18.5 & 17.5:
+
+![photo_2025-07-21_15-12-49](https://github.com/user-attachments/assets/edbbac98-2d45-4c37-9765-b38efc094d08)
+
 
    5. Beacon_Spam Attack :
+![photo_2025-07-21_15-12-46](https://github.com/user-attachments/assets/dea1ead1-3f65-496a-a02b-0fcceb68d7ee)
 
-        ![Beacon_Spam](https://github.com/user-attachments/assets/9958fb42-73bc-4647-88f8-430861af876a)
-
+       
    6. Analyzer:
 
-![Analyzer](https://github.com/user-attachments/assets/93b9bee9-0c27-4d01-b659-854cd2fa23e6)
+![photo_2025-07-21_15-12-39](https://github.com/user-attachments/assets/61933c13-64da-4f83-bb88-eb198936c231)
+
 
 
   7. Sniffer Means wifi scanner:
 
      
-![Wifi_Scan](https://github.com/user-attachments/assets/b4bee2ee-3480-40a8-a316-c9f121a6c114)
+![photo_2025-07-21_15-12-53](https://github.com/user-attachments/assets/a49940f7-0ef1-4d54-a82a-fa74768e50a7)
+
 
 8. Sniffer++ Attack Means ARP Scan, Nmap Port Scan, MAC Lookup, Packet Detector & Sniff:
     See the full video link[ https://vimeo.com/1089696310/eeea07f1c7?share=copy] that i give u, then you will understand about this cause i have include this section in the video. 
