@@ -39,6 +39,9 @@ _____________________________________
 <div align="center">
  <img src="https://github.com/MrEchoFi/EchoFi_BoX_V1-/blob/main/photo_2025-07-21_15-12-32.jpg?raw=true" alt="gif" width="300" height="auto" />
 </div>
+<div align="center">
+ <img src="https://github.com/MrEchoFi/EchoFi_BoX_V1-/blob/main/photo_2025-07-21_15-13-02.jpg?raw=true" alt="gif" width="320" height="auto" />
+</div>
 
 
   </div>
