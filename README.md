@@ -33,10 +33,10 @@
 https://github.com/user-attachments/assets/9a693386-4627-498f-a03e-1756cbb58b1c
 
 _____________________________________
-
-![photo_2025-07-21_15-12-36](https://github.com/user-attachments/assets/fe6ee798-7161-47bd-9fed-cca2a74dbe95)
-
-![photo_2025-07-21_15-12-32](https://github.com/user-attachments/assets/ef00d182-8dd8-42eb-9fef-25297f1dc6ef)
+ <img src="https://github.com/MrEchoFi/EchoFi_BoX_V1-/blob/main/photo_2025-07-21_15-12-36.jpg?raw=true" alt="gif" width="500" height="auto" />
+</div>
+ <img src="https://github.com/MrEchoFi/EchoFi_BoX_V1-/blob/main/photo_2025-07-21_15-12-32.jpg?raw=true" alt="gif" width="500" height="auto" />
+</div>
 
 
   </div>
